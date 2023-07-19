@@ -2,6 +2,7 @@ package olyacompany.impl;
 
 public class Waterfall {
     public Waterfall() {
+
     }
 
     public String waterName() {
